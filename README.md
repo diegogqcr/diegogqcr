@@ -7,10 +7,10 @@ and more than 1 year as a software developer.
 
 ✨ Skills
 ▪️ Development with best practices: Clean Code, TDD, Pair Programming.
-▪️ Development following agile methodologies
-▪️ Creativity and continuous learning
-▪️ Teamwork 
-▪️ Project management and communication
+▪️ Development following agile methodologies.
+▪️ Creativity and continuous learning.
+▪️ Teamwork.
+▪️ Project management and communication.
 
 ✨ Technologies
 Experience in mobile first, NPM, Webpack, Redux, HTML, CSS (SASS), Tailwind, Javascript (ES6), BEM, scrum, ReactJS, NextJS, .
