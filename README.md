@@ -6,7 +6,7 @@ and more than 1 year as a software developer.
 📫 How to reach me diego.gamboa.cr@gmail.com & http://www.linkedin.com/in/diegogamboaq
 
 ✨ Skills
-▪️ Development with best practices: Clean Code, TDD, Pair Programming
+▪️ Development with best practices: Clean Code, TDD, Pair Programming.
 ▪️ Development following agile methodologies
 ▪️ Creativity and continuous learning
 ▪️ Teamwork 
