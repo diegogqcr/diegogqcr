@@ -17,6 +17,11 @@ I'm passionate about technology and I am always looking to learn new skills and 
 
 💻 Technologies
 Experience in mobile first, Redux, HTML, CSS, NPM, Webpack, Javascript (ES6), BEM, SCRUM,  ReactJS, NextJS, GraphQL, Docker, SQL, Tailwind, Boostrap, Horizon UI...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nextjs,nodejs,react,js,postman,graphql,html,css,ts" />
+  </a>
+</p>
 
 ⚙️ Tools
 Notion, Jira, Trello, Linear, Git, Github, Figma, Linear, VC, Slack, discord, ...
