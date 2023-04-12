@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Nice+to+see+you+I'm+Diego)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=1000&color=0891B2&center=true&vCenter=true&width=444&height=70&lines=Hello%2C+Nice+to+see+you+I'm+Diego+!)](https://git.io/typing-svg)
 
 - 🧑🏽‍💻 Systems engineer, I work as a junior frontend web developer, specialized in creating responsive and efficient user interfaces using technologies such as Next JS, React JS and Tailwind CSS, GraphQL and REST APIs. I have acquired skills in creating responsive and mobile friendly designs. In addition, I have worked with React JS and Next JS to develop modern and dynamic web applications, using reusable components.
 I also have experience in integrating third-party APIs and creating scalable and well-structured applications.
