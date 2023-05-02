@@ -33,7 +33,7 @@ Notion, Jira, Trello, Linear, Git, Github, Figma, Linear, VC, Slack, discord...
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=10000&color=10AA00F2&multiline=true&width=535&lines=Hello%2C+Nice+to+see+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=10000&color=10AA00F2&multiline=true&width=535&lines=Nice+to+see+you!)](https://git.io/typing-svg)
 <!---
 djgqcr/djgqcr ✨ ✨ 
 👋 Hi, I’m Diego Gamboa, @diegogqcr 
