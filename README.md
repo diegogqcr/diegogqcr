@@ -9,6 +9,7 @@ I'm passionate about technology and I am always looking to learn new skills and 
 - 💞️ I'm looking to collaborate, in new professional environment in software development.
 - 📫 How to reach me diego.gamboa.cr@gmail.com & http://www.linkedin.com/in/diegogamboaq
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=15&pause=10000&color=FFF915F2&multiline=true&width=535&lines=Skills)](https://git.io/typing-svg)
 - Development with best practices: Clean Code and TDD.
 - Development following agile methodologies.
@@ -16,10 +17,12 @@ I'm passionate about technology and I am always looking to learn new skills and 
 - Pair Programming and Teamwork.
 - Project management and communication.
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=15&pause=10000&color=FFF915F2&multiline=true&width=535&lines=Technologies)](https://git.io/typing-svg)
 
 Experience in mobile first, Redux, HTML, CSS, NPM, Webpack, Javascript (ES6), BEM, SCRUM,  ReactJS, NextJS, GraphQL, Docker, SQL, Tailwind, Boostrap, Horizon UI...
- 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=15&pause=10000&color=FFF915F2&multiline=true&width=535&lines=Tools)](https://git.io/typing-svg)
 
 Notion, Jira, Trello, Linear, Git, Github, Figma, Linear, VC, Slack, discord...
