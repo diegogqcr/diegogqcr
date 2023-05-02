@@ -2,7 +2,7 @@
 
 
 
-- 🧑🏽‍💻 Systems engineer, I work as a junior frontend web developer, specialized in creating responsive and efficient user interfaces using technologies such as Next JS, React JS and Tailwind CSS, GraphQL and REST APIs. I have acquired skills in creating responsive and mobile friendly designs. In addition, I have worked with React JS and Next JS to develop modern and dynamic web applications, using reusable components.
+- 🧑🏽‍💻 Systems engineer, I work as a web developer, specialized in creating responsive and efficient user interfaces using technologies such as Next JS, React JS and Tailwind CSS, GraphQL and REST APIs. I have acquired skills in creating responsive and mobile friendly designs. In addition, I have worked with React JS and Next JS to develop modern and dynamic web applications, using reusable components.
 I also have experience in integrating third-party APIs and creating scalable and well-structured applications.
 I'm passionate about technology and I am always looking to learn new skills and keep myself updated on the latest trends in web development. I always work in a team, I like to share knowledge.
 - 🌱 I’m a self-taught and pro-active person, I like to learn web3, blockchains and new developments.
