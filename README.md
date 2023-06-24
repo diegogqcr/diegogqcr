@@ -41,7 +41,7 @@ Notion, Jira, Trello, Linear, Git, Github, Figma, Linear, VC, Slack, discord...
 
 [calculadora-gambo](https://calculadora-diegogqcr.vercel.app/)
 
-(https://publicacion-coment.vercel.app/)
+[publicacion-comentarios-web](https://publicacion-coment.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=10000&color=10AA00F2&multiline=true&width=535&lines=Nice+to+see+you!)](https://git.io/typing-svg)
 <!---
